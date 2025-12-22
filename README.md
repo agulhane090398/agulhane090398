@@ -46,7 +46,7 @@
 
 ⚡ Fun fact: **I’ve spent more time reading logs than social media.**
 
-📦 **25** repositories | ⭐ **2** stars
+📦 **25** repositories | ⭐ **4** stars
 
 <br clear="right"/>
 
