@@ -49,6 +49,8 @@
 
 📦 **25** repositories | ⭐ **4** stars
 
+🚀 Java, Python, SQL, Selenium, TestNG, Appium, JBehave, Tableau, Jenkins, AWS (EC2, ECS), Git, Jira, Mobile Automation (iOS, Android, Mobile Web), BDD, Cucumber, RESTful API, CI/CD Pipelines, X-ray updates, Regression Testing, Docker, Kubernetes, Playwright, Robot Framework, AccelQ, ML modeling(Supervised and       Unsupervised learning), Numpy, Pandas.
+
 <br clear="right"/>
 
 
