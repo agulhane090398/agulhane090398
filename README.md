@@ -32,10 +32,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agulhane090398&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
 
 
-📍 **Pune **
+📍 **Pune**
 
-💼 **Experienced Automation Tester with 4+ years of expertise in developing and implementing robust automated test frameworks for web, mobile, and desktop platforms. Proficient in Selenium, Appium, Jenkins, and API testing, with a proven track record of optimizing testing processes to significantly reduce manual efforts and increase product quality.
-**
+💼 **Experienced Automation Tester with 4+ years of expertise in developing and implementing robust automated test frameworks for web, mobile, and desktop platforms. Proficient in Selenium, Appium, Jenkins, and API testing, with a proven track record of optimizing testing processes to significantly reduce manual efforts and increase product quality.**
 
 🔭 Currently working on **[Playwright_Automation_With_Java](https://github.com/agulhane090398/Playwright_Automation_With_Java)**
 
