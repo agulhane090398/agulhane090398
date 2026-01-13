@@ -287,6 +287,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
 
-**⭐ From [agulhane090398](https://github.com/agulhane090398) with ❤️**
+**⭐ From [Aniket](https://github.com/agulhane090398) with ❤️**
 
 </div>
