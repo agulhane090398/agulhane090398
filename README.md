@@ -13,7 +13,7 @@
 <!-- PROFILE BADGES -->
 <p>
   <img src="https://img.shields.io/badge/Focus-SDET-70a5fd?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/4+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
+  <img src="https://img.shields.io/badge/5+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
   <img src="https://img.shields.io/badge/2-Stars_Earned-70a5fd?style=for-the-badge" alt="stars"/>
   <img src="https://komarev.com/ghpvc/?username=agulhane090398&style=for-the-badge&color=70a5fd" alt="views"/>
 </p>
@@ -38,7 +38,7 @@
 
 🔭 Currently working on **[Playwright_Automation_With_Java](https://github.com/agulhane090398/Playwright_Automation_With_Java)**
 
-🌱 Currently learning **AI/ML, Playwright, GenAI**
+🌱 Currently learning **AI/ML, Playwright, GenAI, Agentic AI**
 
 💬 Ask me about **Test Automation (Java, RestAssured, Appium)**
 
