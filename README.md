@@ -36,7 +36,7 @@
 
 💼 **Experienced Automation Tester with 4+ years of expertise in developing and implementing robust automated test frameworks for web, mobile, and desktop platforms. Proficient in Selenium, Appium, Jenkins, and API testing, with a proven track record of optimizing testing processes to significantly reduce manual efforts and increase product quality.**
 
-🔭 Currently working on **[Playwright_Automation_With_Java](https://github.com/agulhane090398/Playwright_Automation_With_Java)**
+🔭 Currently working on **[LangGraph Project](https://github.com/agulhane090398/LangGraphProject)**
 
 🌱 Currently learning **AI/ML, Playwright, GenAI, Agentic AI**
 
